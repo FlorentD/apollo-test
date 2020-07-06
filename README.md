@@ -1,2 +1,0 @@
-# apollo-test
-Begin app
